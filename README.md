@@ -42,8 +42,8 @@ A **Flask-based chatbot** that allows users to interact with **PDF documents usi
 ---
 
 ### 📈 GitHub Stats  
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanDaud&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanDaud&theme=tokyonight)](https://git.io/streak-stats)  
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassandaudhi&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassandaudhi&theme=tokyonight)](https://git.io/streak-stats)  
 
 
 ---
